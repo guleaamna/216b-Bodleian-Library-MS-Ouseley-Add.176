@@ -47,7 +47,7 @@
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Landscape and Dust",
-    "zoom":5,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -56,7 +56,7 @@
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"A Fallen Soldier",
-    "zoom":5,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -64,29 +64,20 @@
     "geometry":{"type":"Point","coordinates":[2024, 5855]}},
   {"type":"Feature","properties":
     {"id":6,
-    "chapter":"<i>References<i>",
-    "zoom":5,
+    "chapter":"References",
+    "zoom":1,
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}},
+    "description":"Abu ʾl-Qasim Firdowsi Tusi. “How the Battle was joined between the Hosts.” In The Shahnama of Firdausi. Vol. 4. 9 vols. Translated by Arthur G. Warner and Edmond Warner, 177-183. London: Kegan Paul, Trench, Trubner & Co. Ltd., 1909. https://archive.org/details/FirdausiShahnamaTrWarnerVol4/page/n181\n\nFarhat–Holzman, Laina. “The Shahnameh of Ferdowsi: An Icon to National Identity.” Comparative Civilizations Review 44 (2001): 104-114. https://scholarsarchive.byu.edu/ccr/vol44/iss44/6\n\nSims, Eleanor. “The Illustrated Manuscripts of Firdausī’s ‘Shāhnāma’ Commissioned by Princes of the House of Tīmūr.” Ars Orientalis 22 (1992): 43–68. http://www.jstor.org/stable/4629424."},
+    "geometry":{"type":"Point","coordinates":[0,7026]}},
     {"type":"Feature","properties":
     {"id":6,
-    "chapter":"Chapter 8: Flowers",
-    "zoom":5,
+    "chapter":"How to Cite This",
+    "zoom":1,
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}},
-  {"type":"Feature","properties":
-    {"id":6,
-    "chapter":"Chapter 9: Flowers",
-    "zoom":5,
-    "image":"",
-    "source-credit":"",
-    "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}}
-    ]}
+    "description":"Shahid, Gul-E-Aamna (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder.). \"Kay Khusrow kills Aila.\" In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 21, 2022."},
+    "geometry":{"type":"Point","coordinates":[4932,7026]}}
+
