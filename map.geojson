@@ -64,7 +64,7 @@
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
   {"type":"Feature","properties":
     {"id":6,
-    "chapter":"References",
+    "chapter":"<i>References<i>",
     "zoom":5,
     "image":"",
     "source-credit":"",
