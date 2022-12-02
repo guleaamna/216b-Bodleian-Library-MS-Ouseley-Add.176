@@ -73,20 +73,11 @@
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
     {"type":"Feature","properties":
     {"id":9,
-    "chapter":"Chapter 8: Flowers",
-    "zoom":4,
+    "chapter":"How to Cite This",
+    "zoom":1,
     "image":"",
     "source-credit":"",
     "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
+    "description":"SHAHID, GUL-E-AAMNA (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder.). \"Kay Khusrow kills Aila.\" In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 21, 2022."},
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
-  {"type":"Feature","properties":
-    {"id":10,
-    "chapter":"Chapter 9: Flowers",
-    "zoom":5,
-    "image":"",
-    "source-credit":"",
-    "source-link":"",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}}
     ]}
