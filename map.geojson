@@ -26,12 +26,12 @@
   {"type":"Feature","properties":
     {"id":4,
     "chapter":"Chaos of Battle",
-    "zoom":4,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"",
     "description":"The text brings a lot of focus on the chaos taking over the battlefield, with particular attention to noise from drums and battle cries, as well as bloodshed that is so rampant, it draws fear into the Earth. The following excerpt from the story depicts this:\n      The sun was darkened by the armies' dust,\n      While at the flashing spear-heads, eagle's plumes,\n      The din of trumpets, shouting warriors,\n      And heroes' maces on the battlefield,\n      The crocodile in the water and the pard\n      On land, the iron and the rocks and mountains,\n      Dissolved with fear. Earth heaved and air was full\n      Of shots; the wars of savage lions split;\n      Thou wouldst have said: \"The world is Ahriman's;\n      'Tis naught but enemies from sleeve to skirt!\"\n\nStrangely enough, the artist has chosen to create the effect of chaos in battle in other ways, not focusing so much on noise or any limbs littering the field. Instead, we see flags and soldier heads painted outside of the gold boundaries of the page's margins. It feels like the soldiers are climbing out of the image, like bugs crawling out from under a box, disobeying the rules of boundaries in the frenzy of their fight. Additionally, the different colors of multiple flags in the air indicate the scale of the battle, as the text describes kings and chiefs from nearby regions joining the fight, including King Aila, who will later be killed by Kay Khusrow.\n\nThe use of the battle itself to depict chaos may be due in part to the preferences of Ibrahim Sultan. The Timurid princes sponsor art in a way similar to how they sponsored architecture, indicating their political attitudes. Hence, the illustrations in Ibrahim Sultan's Shahnama seem to focus on bazm u razm, the Iranian themes of hunting, feasting, and battle. (Sims, 1992, 5)"},
-    "geometry":{"type":"Point","coordinates":[3301,5871]}},
+    "geometry":{"type":"Point","coordinates":[4268,2346]}},
   {"type":"Feature","properties":
     {"id":5,
     "chapter":"War Strategy",
@@ -40,7 +40,7 @@
     "source-credit":"",
     "source-link":"",
     "description":"I mentioned before that each of the two hosts is partially obscured by either the hill, or a cloud of dust (the latter I will return to in the next chapter). The artist uses this to show the deception needed for effective battle strategy, while also remaining true to the text. Firdawsi describes the opposing forces as \"mountain-like, troop after troop\". In this part of the folio, the Turan troops  are shown as two sets, one that is visible to  the Iranians and aiming their arrows at them, while the other set is hidden behind the mountain. Hence, the artist evokes a sense of danger and anticipation for the reveal of this hidden set of troops. It is like the artist is giving us a look behind the curtain (the curtain here being the mountain) for a sneak peak of the events to unfold.\n\nFor most of the battle, Firdawsi describes the dominance of the Iranian troops over those of Turan. Even when darkness falls and both hosts must retreat for the night to fight again in the morning, Kay Khusrow's troops are described to be winning. This is reflected in the dominance of the Iranian troops across the folio page. But, the inclusion of the hidden troops reminds us not to be quick to predict the outcome of the battle. It hints at greater difficulty to come, and reminds us that this battle lasts for several days, with troop after troop slaughtered and replaced, only to be slaughtered again."},
-    "geometry":{"type":"Point","coordinates":[1412,2669]}},
+    "geometry":{"type":"Point","coordinates":[1189,3057]}},
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Landscape and Dust",
@@ -53,12 +53,12 @@
   {"type":"Feature","properties":
     {"id":7,
     "chapter":"A Fallen Soldier",
-    "zoom":2,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"",
     "description":"Firdawsi fills this story with recurring images of dismembered bodies and pools of blood. However, as discussed earlier, we don't see much of this in the folio, except for Kay Khusrow's murder of Aila. We do, also, see this one fallen soldier, clad in blue, face scrunched up in agony. Scattered around him are his sword, his banner, and two helmets. Once must be his, while the other may belong to Aila. The slain king's head is shown as bare in the folio, marking his loss of status and reputation upon his defeat as he is stripped of his headpiece.\n\nReturning to the fallen soldier, we see he has been stabbed through the chest. The folio does not show who killed him, but as Kay Khusrow is closest to him on the battlefield, the soldier may be Ustukila, the king slain by Khusrow before the Iranian Shah turned his sword on Aila. And yet, the way Ustukila is depicted echoes the text's description of Shida's death, a day before the fierce battle between Afrasiyab and Kay Khusrow begins. Firdawsi describes him as being stabbed through the heart by Khusrow, just as the blue-clad soldier is here. The artist's fidelity to the text is clear, as the folio echoes continuity with the previous episode's events."},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}},
+    "geometry":{"type":"Point","coordinates":[3046,6097]}},
   {"type":"Feature","properties":
     {"id":8,
     "chapter":"References",
