@@ -67,7 +67,7 @@
     "source-credit":"",
     "source-link":"",
     "description":"   Abu ʾl-Qasim Firdowsi Tusi. “How the Battle was joined between the Hosts.” In The Shahnama of Firdausi. Vol. 4. 9 vols. Translated by Arthur G. Warner and Edmond Warner, 177-183. London: Kegan Paul, Trench, Trubner & Co. Ltd., 1909.\n https://archive.org/details/FirdausiShahnamaTrWarnerVol4/page/n181.\n\n   Farhat–Holzman, Laina. “The Shahnameh of Ferdowsi: An Icon to National Identity.” Comparative Civilizations Review 44 (2001): 104-114.\nhttps://scholarsarchive.byu.edu/ccr/vol44/iss44/6\n\n   Sims, Eleanor. “The Illustrated Manuscripts of Firdausī’s ‘Shāhnāma’ Commissioned by Princes of the House of Tīmūr.” Ars Orientalis 22 (1992): 43–68.\nhttp://www.jstor.org/stable/4629424."},
-    "geometry":{"type":"Point","coordinates":[2170,1518]}},
+    "geometry":{"type":"Point","coordinates":[1256,1414]}},
     {"type":"Feature","properties":
     {"id":9,
     "chapter":"How to Cite This",
@@ -76,5 +76,5 @@
     "source-credit":"",
     "source-link":"",
     "description":"SHAHID, GUL-E-AAMNA (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder.). \"Kay Khusrow kills Aila.\" In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 21, 2022."},
-    "geometry":{"type":"Point","coordinates":[3134,2245]}}
+    "geometry":{"type":"Point","coordinates":[3119,2214]}}
     ]}
