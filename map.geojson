@@ -54,7 +54,7 @@
     "description":"The Iranian troops are partly hidden by a faded pink cloud-like shape. At first glance, this appears to be bushes growing at the edges of the battlefield. However, when one reads the text more closely, one realizes this is the cloud of \"horsemen's dust\" to which Firdawsi refers. It creates the effect of rapid, heavy movement on the field, resembling a wave crashing onto the shore behind the charging troops. This is fitting, considering the way Firdawsi describes the dust to darken the battlefield and interfere with the soldiers' vision.n/n/The artist also makes use of muted colors and minimal detail in the landscape -- such as pale green for the plane, and a faded red for the dust -- which is in contrast with the more vivid, darker palette of colors and detail used for the troops. This creates the effect of the soldiers, their steads, and their weapons seeming more prominent and eye-catching for an observer, drawing all the focus on the action of the battle rather than the setting. Through this technique, the image resembles a picture with a blurred background, the camera's focus on the people as the main subject.n/n/Fun fact: it is believed that the \"Timurid green\" used for the field landscape of so many folios in this manuscript consisted of copper carbonate, which burned through the pages over time so that extensive restoration was required. (Sims, 1992, 4)"},
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
   {"type":"Feature","properties":
-    {"id":6,
+    {"id":7,
     "chapter":"A Fallen Soldier",
     "zoom":2,
     "image":"",
@@ -63,7 +63,7 @@
     "description":"Firdawsi fills this story with recurring images of dismembered bodies and pools of blood. However, as discussed earlier, we don't see much of this in the folio, except for Kay Khusrow's murder of Aila. We do, also, see this one fallen soldier, clad in blue, face scrunched up in agony. Scattered around him are his sword, his banner, and two helmets. Once must be his, while the other may belong to Aila. The slain king's head is shown as bare in the folio, marking his loss of status and reputation upon his defeat as he is stripped of his headpiece.n/n/Returning to the fallen soldier, we see he has been stabbed through the chest. The folio does not show who killed him, but as Kay Khusrow is closest to him on the battlefield, the soldier may be Ustukila, the king slain by Khusrow before the Iranian Shah turned his sword on Aila. And yet, the way Ustukila is depicted echoes the text's description of Shida's death, a day before the fierce battle between Afrasiyab and Kay Khusrow begins. Firdawsi describes him as being stabbed through the heart by Khusrow, just as the blue-clad soldier is here. The artist's fidelity to the text is clear, as the folio echoes continuity with the previous episode's events."},
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
   {"type":"Feature","properties":
-    {"id":6,
+    {"id":8,
     "chapter":"Chapter 8: Flowers",
     "zoom":5,
     "image":"",
@@ -72,7 +72,7 @@
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
     {"type":"Feature","properties":
-    {"id":6,
+    {"id":9,
     "chapter":"Chapter 8: Flowers",
     "zoom":5,
     "image":"",
@@ -81,7 +81,7 @@
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
   {"type":"Feature","properties":
-    {"id":6,
+    {"id":10,
     "chapter":"Chapter 9: Flowers",
     "zoom":5,
     "image":"",
