@@ -16,7 +16,7 @@
     "source-credit":"",
     "source-link":"",
     "description":"This folio depicts an intense battle. Two hosts of soldiers taking up arms against each other, one partially hidden behind a hill, the other somewhat obscured by a large cloud of dust left by charging horses. At the centre of the image is a man dressed in dark clothing with elaborate golden designs. This gives the effect of elevated status and wealth, as the golden design seems to blossom over his chest and shoulders like an enchanted flower. Here, it functions like a crown would, marking Kay Khusrow, Shah of Iran. This also stays true to the text, which places the Shah at the centre of the battle.\n\nBefore we dive deeper into the image, however, we must first briefly discuss the question itching everyone's mind: how did we get there?\n\nThe event of this folio is a continuation of the much anticipated Great War between Kay Khusrow of Iran, and Afrasiyab of Turan (his maternal grandfather), as Kay Khusrow pledge vengeance on Afrasiyab for his father's murder. Shida, son of Afrasiyab, dies to Kay Khusrow in one-on-one combat, and the Turan leader and his soldiers, all overcome with grief and vengeance, meet Kay Khusrow and his Iranian army on the battlefield. It is after this that the episode of \"Kay Khusrow kills Aila\" takes place, where a fierce, bloody battle ensues for days on end."},
-    "geometry":{"type":"Point","coordinates":[1385,1360]}},
+    "geometry":{"type":"Point","coordinates":[2092,3724]}},
   {"type":"Feature","properties":
     {"id":3,
     "chapter":"Aila and Blood",
@@ -25,7 +25,7 @@
     "source-credit":"",
     "source-link":"",
     "description":"Considering the title of this episode has the word \"kill\" in it, and we have already identified who Kay Khusrow is, it makes sense to first draw our attention to the body the Shah has driven his sword through. Khusrow's victim has fallen across his horse, and seems in the process of having the upper part of his body decapitated from the lower part. At this point, it is reasonable to infer this man is Aila, one of the many other kings and chiefs to join the long battle between Turan and Iran. His kill is given significance as, in the text, witnessing Kay Khusrow kill Aila right after he killed Ustukila (another king who joined Afrasiyab's forces against Iran) is what strikes fear into the hearts of the Turan soldiers after days of vengeful fighting. In fact, this sight prompts Garsiwaz, brother of Afrasiyab, to ask the Turan Shah to retreat, which of course Afrasiyab does not do. Not until his army chiefs steer his horse away themselves so they may take the night to recover themselves.\n\nDespite the constant gory allusions to blood in the text, it is only for Aila's death that the artist chooses to show the red liquid as it bursts out of his body and stains the armour of his horse. The artist's choice here echoes the text description of \"he burst his skin\", and creates the effect of bloodshed involved in battle in a more concentrated way, perhaps to draw attention to this particular death. This resembles the image of an overstuffed bag being ripped open so that all its contents come tumbling out uncontrollably."},
-    "geometry":{"type":"Point","coordinates":[1430,3954]}},
+    "geometry":{"type":"Point","coordinates":[1385,1360]}},
   {"type":"Feature","properties":
     {"id":4,
     "chapter":"Chaos of Battle",
@@ -34,7 +34,7 @@
     "source-credit":"",
     "source-link":"",
     "description":"The text brings a lot of focus on the chaos taking over the battlefield, with particular attention to noise from drums and battle cries, as well as bloodshed that is so rampant, it draws fear into the Earth. The following excerpt from the story depicts this:\n      The sun was darkened by the armies' dust,\n      While at the flashing spear-heads, eagle's plumes,\n      The din of trumpets, shouting warriors,\n      And heroes' maces on the battlefield,\n      The crocodile in the water and the pard\n      On land, the iron and the rocks and mountains,\n      Dissolved with fear. Earth heaved and air was full\n      Of shots; the wars of savage lions split;\n      Thou wouldst have said: \"The world is Ahriman's;\n      'Tis naught but enemies from sleeve to skirt!\"\n\nStrangely enough, the artist has chosen to create the effect of chaos in battle in other ways, not focusing so much on noise or any limbs littering the field. Instead, we see flags and soldier heads painted outside of the gold boundaries of the page's margins. It feels like the soldiers are climbing out of the image, like bugs crawling out from under a box, disobeying the rules of boundaries in the frenzy of their fight. Additionally, the different colors of multiple flags in the air indicate the scale of the battle, as the text describes kings and chiefs from nearby regions joining the fight, including King Aila, who will later be killed by Kay Khusrow.\n\nThe use of the battle itself to depict chaos may be due in part to the preferences of Ibrahim Sultan. The Timurid princes sponsor art in a way similar to how they sponsored architecture, indicating their political attitudes. Hence, the illustrations in Ibrahim Sultan's Shahnama seem to focus on bazm u razm, the Iranian themes of hunting, feasting, and battle. (Sims, 1992, 5)"},
-    "geometry":{"type":"Point","coordinates":[1412, 2669]}},
+    "geometry":{"type":"Point","coordinates":[1430,3954]}},
   {"type":"Feature","properties":
     {"id":5,
     "chapter":"War Strategy",
@@ -43,7 +43,7 @@
     "source-credit":"",
     "source-link":"",
     "description":"I mentioned before that each of the two hosts is partially obscured by either the hill, or a cloud of dust (the latter I will return to in the next chapter). The artist uses this to show the deception needed for effective battle strategy, while also remaining true to the text. Firdawsi describes the opposing forces as \"mountain-like, troop after troop\". In this part of the folio, the Turan troops  are shown as two sets, one that is visible to  the Iranians and aiming their arrows at them, while the other set is hidden behind the mountain. Hence, the artist evokes a sense of danger and anticipation for the reveal of this hidden set of troops. It is like the artist is giving us a look behind the curtain (the curtain here being the mountain) for a sneak peak of the events to unfold.\n\nFor most of the battle, Firdawsi describes the dominance of the Iranian troops over those of Turan. Even when darkness falls and both hosts must retreat for the night to fight again in the morning, Kay Khusrow's troops are described to be winning. This is reflected in the dominance of the Iranian troops across the folio page. But, the inclusion of the hidden troops reminds us not to be quick to predict the outcome of the battle. It hints at greater difficulty to come, and reminds us that this battle lasts for several days, with troop after troop slaughtered and replaced, only to be slaughtered again."},
-    "geometry":{"type":"Point","coordinates":[3337, 5846]}},
+    "geometry":{"type":"Point","coordinates":[1412,2669]}},
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Landscape and Dust",
@@ -52,7 +52,7 @@
     "source-credit":"",
     "source-link":"",
     "description":"The Iranian troops are partly hidden by a faded pink cloud-like shape. At first glance, this appears to be bushes growing at the edges of the battlefield. However, when one reads the text more closely, one realizes this is the cloud of \"horsemen's dust\" to which Firdawsi refers. It creates the effect of rapid, heavy movement on the field, resembling a wave crashing onto the shore behind the charging troops. This is fitting, considering the way Firdawsi describes the dust to darken the battlefield and interfere with the soldiers' vision.\n\nThe artist also makes use of muted colors and minimal detail in the landscape, such as pale green for the plane, and a faded red for the dust, which is in contrast with the more vivid, darker palette of colors and detail used for the troops. This creates the effect of the soldiers, their steads, and their weapons seeming more prominent and eye-catching for an observer, drawing all the focus on the action of the battle rather than the setting. Through this technique, the image resembles a picture with a blurred background, the camera's focus on the people as the main subject.\n\nFun fact: It is believed that the \"Timurid green\" used for the field landscape of so many folios in this manuscript consisted of copper carbonate, which burned through the pages over time so that extensive restoration was required. (Sims, 1992, 4)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}},
+    "geometry":{"type":"Point","coordinates":[3337,5846]}},
   {"type":"Feature","properties":
     {"id":7,
     "chapter":"A Fallen Soldier",
@@ -70,7 +70,7 @@
     "source-credit":"",
     "source-link":"",
     "description":"   Abu ʾl-Qasim Firdowsi Tusi. “How the Battle was joined between the Hosts.” In The Shahnama of Firdausi. Vol. 4. 9 vols. Translated by Arthur G. Warner and Edmond Warner, 177-183. London: Kegan Paul, Trench, Trubner & Co. Ltd., 1909.\n https://archive.org/details/FirdausiShahnamaTrWarnerVol4/page/n181.\n\n   Farhat–Holzman, Laina. “The Shahnameh of Ferdowsi: An Icon to National Identity.” Comparative Civilizations Review 44 (2001): 104-114.\nhttps://scholarsarchive.byu.edu/ccr/vol44/iss44/6\n\n   Sims, Eleanor. “The Illustrated Manuscripts of Firdausī’s ‘Shāhnāma’ Commissioned by Princes of the House of Tīmūr.” Ars Orientalis 22 (1992): 43–68.\nhttp://www.jstor.org/stable/4629424."},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}},
+    "geometry":{"type":"Point","coordinates":[2170,1518]}},
     {"type":"Feature","properties":
     {"id":9,
     "chapter":"How to Cite This",
@@ -79,5 +79,5 @@
     "source-credit":"",
     "source-link":"",
     "description":"SHAHID, GUL-E-AAMNA (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder.). \"Kay Khusrow kills Aila.\" In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 21, 2022."},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}}
+    "geometry":{"type":"Point","coordinates":[3134,2245]}}
     ]}
