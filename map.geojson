@@ -65,7 +65,7 @@
   {"type":"Feature","properties":
     {"id":8,
     "chapter":"References",
-    "zoom":2,
+    "zoom":1,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -74,7 +74,7 @@
     {"type":"Feature","properties":
     {"id":9,
     "chapter":"How to Cite This",
-    "zoom":2,
+    "zoom":1,
     "image":"",
     "source-credit":"",
     "source-link":"",
